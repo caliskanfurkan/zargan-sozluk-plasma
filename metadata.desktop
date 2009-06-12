@@ -1,0 +1,20 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zargan Dictionary
+Name[tr]=Zargan Sözlük
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-MainScript=code/main.py
+X-Plasma-API=python
+Icon=services
+
+X-KDE-PluginInfo-Author=Furkan Çalışkan
+X-KDE-PluginInfo-Email=caliskanfurkan@gmail.com
+X-KDE-PluginInfo-Name=zargan-plasma
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.furkancaliskan.com/zargan-plasma
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
